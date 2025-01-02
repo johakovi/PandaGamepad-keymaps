@@ -19,7 +19,8 @@ _Games:_
 If you want to use some of this keymaps in other game, then change "pkgname" in xxx.json file via text editor to your preferred app.
 Example: ,"pkgName":"com.crescentmoongames.morphite","
 
-There should be in all of this keymaps layout changer and it's button is "mode" button.
+There should be in all of this keymaps layout changer and it's button is "mode" button 
+and _hiding_ button is "left joystick" + "start"
 
 
 
