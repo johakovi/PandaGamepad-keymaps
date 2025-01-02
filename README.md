@@ -1,5 +1,5 @@
 # Panda Gamepad Pro keymapping for Samsung Galaxy Fold 6
-There is various onscreen keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9:18 aspect ratios?) that uses Panda Gamepad Pro app.
+There is various onscreen keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9:18 aspect ratios?) that uses [Panda Gamepad Pro app](https://pandagame.app/).
 These are my ready to go settings that you can [import](#import) in Panda's app
 
 _Games:_
