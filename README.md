@@ -16,6 +16,8 @@ _Games:_
 - [Morphite](#morphite)
 - [EKA2L1 (Emulator)](#eka2l1)
 
+All of this is downloadable from main branch Keymaps folder.
+
 If you want to use some of this keymaps in other game, then change "pkgname" in xxx.json file via text editor to your preferred app.
 Example: ,"pkgName":"com.crescentmoongames.morphite","
 
