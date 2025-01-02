@@ -3,7 +3,7 @@ There is various keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9
 
 _Games:_
 
-- [Arena Breakout](#Arena Breakout)
+- [_Arena Breakout_](#Arena Breakout)
 - Aporcalypse
 - Hill Climb Racing
 - Crazy Taxi Classic
