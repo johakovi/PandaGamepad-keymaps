@@ -15,6 +15,13 @@ _Games:_
 - Payback 2
 - Morphite
 
+If you want to use some of this keymaps in other game, then change "pkgname" in xxx.json file via text editor to your preferred app.
+Example: ,"pkgName":"com.crescentmoongames.morphite","
+
+There should be in all of this keymaps layout changer and it's button is "mode" button.
+
+
+
 
 --------------------------
 
@@ -88,6 +95,24 @@ For vehicle control use button control in games settings.
 In this game, I mapped flight and walk controls.
 But if you want to play in paid game, then change "pkgname" in xxx.json file via text editor.
 Example: ,"pkgName":"com.crescentmoongames.morphite","
+
+_Flight controls:_
+![image](https://github.com/user-attachments/assets/b7e355e5-c9a1-4368-8314-02425c2e8238)
+![image](https://github.com/user-attachments/assets/b1a14e7b-482e-4c7c-b6f2-f21effd87c5e)
+![image](https://github.com/user-attachments/assets/ac29ef47-6304-4497-a735-9bcb7d9f75df)
+![image](https://github.com/user-attachments/assets/7d013455-9bcc-42f8-947f-db9ed4fa78a4)
+![image](https://github.com/user-attachments/assets/5c80e094-e1e3-4721-af78-3e40a965fa2e)
+
+
+_Walk controls:_
+![image](https://github.com/user-attachments/assets/a692f698-70a1-4287-8679-9fcf5f7758ed)
+
+
+
+
+
+
+
 
 
 
