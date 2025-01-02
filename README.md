@@ -81,6 +81,18 @@ For vehicle control use button control in games settings.
 ![image](https://github.com/user-attachments/assets/e3310b83-67d3-497e-9a20-73429dd450d4)
 
 
+--------------------------
+
+# _Morphite_
+
+In this game, I mapped flight and walk controls.
+But if you want to play in paid game, then change "pkgname" in xxx.json file via text editor.
+Example: ,"pkgName":"com.crescentmoongames.morphite","
+
+
+
+
+
 
 
 
