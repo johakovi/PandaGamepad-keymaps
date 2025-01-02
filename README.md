@@ -14,6 +14,7 @@ _Games:_
 - [Shell Racing](#shell-racing)
 - [Payback 2](#payback-2)
 - [Morphite](#morphite)
+- [EKA2L1 (Emulator)](#eka2l1)
 
 If you want to use some of this keymaps in other game, then change "pkgname" in xxx.json file via text editor to your preferred app.
 Example: ,"pkgName":"com.crescentmoongames.morphite","
