@@ -20,6 +20,7 @@ If you want to use some of this keymaps in other game, then change "pkgname" in 
 Example: ,"pkgName":"com.crescentmoongames.morphite","
 
 There should be in all of this keymaps layout changer and it's button is "mode" button.
+
 Panda's ui_hiding_ button is "left joystick" + "start"
 
 
