@@ -25,6 +25,8 @@ There should be in all of this keymaps _layout changer_ and it's button is "mode
 
 Panda's ui _hiding_ button is "left joystick" + "start"
 
+_Happy gaming!_ 🎮
+
 
 
 
