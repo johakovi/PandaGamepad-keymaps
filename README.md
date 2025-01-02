@@ -3,7 +3,7 @@ There is various keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9
 
 _Games:_
 
-- [_Arena Breakout_](#_Arena Breakout_)
+- [Arena Breakout](#arena-breakout)
 - Aporcalypse
 - Hill Climb Racing
 - Crazy Taxi Classic
@@ -25,7 +25,7 @@ There should be in all of this keymaps layout changer and it's button is "mode" 
 
 --------------------------
 
-## _Arena Breakout_
+## Arena Breakout
 
 ![image](https://github.com/user-attachments/assets/d973e0b4-8284-4049-9ee7-04ffe4772788)
 
