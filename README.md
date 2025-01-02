@@ -1,5 +1,6 @@
 # Panda Gamepad Pro keymapping for Samsung Galaxy Fold 6
-There is various keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9:18 aspect ratios?)
+There is various onscreen keymaps for Fold 6 (or maybe for too 2160x1856 screens and 20.9:18 aspect ratios?) that uses Panda Gamepad Pro app.
+These are my ready to go settings that you can import in Panda's app
 
 _Games:_
 
@@ -16,8 +17,6 @@ _Games:_
 - [Morphite](#morphite)
 - [EKA2L1 (Emulator)](#eka2l1)
 
-All of this is downloadable from main branch Keymaps folder.
-
 If you want to use some of this keymaps in other game, then change "pkgname" in xxx.json file via text editor to your preferred app.
 Example: ,"pkgName":"com.crescentmoongames.morphite","
 
@@ -27,6 +26,14 @@ Panda's ui _hiding_ button is "left joystick" + "start"
 
 _Happy gaming!_ 🎮
 
+
+
+
+--------------------------
+
+## Import
+
+Importing these settings are fairly easy and you can use xxx.json file or just copy text from that file
 
 
 
